@@ -1,1 +1,2 @@
 # myfirstrepo
+cd myfirstrepo
